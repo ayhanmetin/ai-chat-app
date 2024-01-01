@@ -38,6 +38,8 @@ const chat = () => {
       const userMessage = formatMessage(userInput)
       const response = await newMessage(history, userMessage)
 
+      // If you don't add history, your bot won't recognize you.
+
       history.push(userMessage, response)
       console.log(`\n\nAI: ${response.content}\n\n`)
       start()
