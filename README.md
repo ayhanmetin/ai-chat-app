@@ -1,13 +1,5 @@
 # AI Chat App
 
-![chat](images/2.png)
-
-![chat](images/4.png)
-
-![qa](images/5.png)
-
-![qa2](images/6.png)
-
 ## Introduction
 
 The AI Chat App is a Node.js application that integrates OpenAI's GPT-3.5 Turbo model. It offers an interactive platform for AI-based chat, search, and question-answer functionalities. This application is designed to showcase the integration of various AI tools and APIs in a single, cohesive project.
@@ -72,3 +64,7 @@ node qa "your question here"
 ```
 
 Replace "your question here" with your actual query.
+
+![qa](images/5.png)
+
+![qa2](images/6.png)
