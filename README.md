@@ -56,6 +56,26 @@ Use xbox.pdf and OpenAI video transcripts as sources for the QA functionality.
 
 ## Usage
 
+### Chat Bot
+
+To use the chat bot:
+
+1. Insert your questions in `index.js`.
+2. Run the script `node index.js`
+
+### Search Bot
+
+To perform a search:
+
+1. Add your search query inside `search.js`. For example:
+
+```
+console.log(await search('your query'))
+```
+Execute the script `node search.js`
+
+##QA bot
+
 To interact with the QA feature of the app, use the following command:
 
 ```bash
