@@ -20,7 +20,7 @@ Follow these steps to set up your development environment:
 1. Install dotenv, which helps in managing environment variables and keeps your API key secure:
 
 ```bash
-   npm i dotenv
+npm i dotenv
 ```
 
 2. Istall the OpenAI package to enable chat functionalities within your app:
@@ -32,7 +32,7 @@ npm i openai
 3. To enhance your app's search capabilities, install langchain:
 
 ```bash
-   npm i langchain
+npm i langchain
 ```
 
 4. For the QA feature, you'll need additional libraries like pdf-parse and YouTube transcript APIs:
