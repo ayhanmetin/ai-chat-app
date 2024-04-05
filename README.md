@@ -74,7 +74,7 @@ console.log(await search('your query'))
 ```
 Execute the script `node search.js`
 
-##QA bot
+## QA bot
 
 To interact with the QA feature of the app, use the following command:
 
